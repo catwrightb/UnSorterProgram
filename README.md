@@ -1,2 +1,2 @@
 # UnSorterProgram
- Program which produces unsorted txt files using the Josephus Problem.
+ GUI Program which produces unsorted txt files using the Josephus Problem.
