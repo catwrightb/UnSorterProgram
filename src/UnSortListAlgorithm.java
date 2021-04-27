@@ -56,7 +56,6 @@ public class UnSortListAlgorithm<E> implements Runnable{
         else{
             System.out.println("list not empty");
         }
-
     }
 
     public void JosephusProblem(LinkedQueue<E> list, int gap){
